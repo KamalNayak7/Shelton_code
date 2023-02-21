@@ -1,0 +1,158 @@
+html {
+  font-family: Poppins, sans-serif !important;
+}
+.mainContainer {
+  padding: 24px;
+}
+.headRow {
+  margin-bottom: 2%;
+}
+
+.negativeChange {
+  color: red;
+
+  margin: 0 auto;
+}
+
+.positiveChange {
+  color: green;
+}
+
+.cryptoList {
+  padding-top: 12px !important;
+}
+
+.chartDropdown {
+  padding-left: 40px !important;
+}
+
+.searchBox {
+  padding-bottom: 20px;
+}
+
+.paginateComponent {
+  padding-top: 15px;
+}
+
+.cryptoLogo {
+  height: 30px !important;
+}
+
+.nftimg {
+  height: 450px;
+  width: 400px;
+}
+h1 {
+  font-size: 30px !important;
+}
+.tokenPrice {
+  font-size: 30px !important;
+}
+.tokenformat {
+  font-size: 15px;
+}
+.nft_attr {
+  margin: 10px;
+}
+.nft_attr_val {
+  white-space: nowrap;
+}
+.nft_details {
+  border: none !important;
+}
+.row {
+  margin: 10px !important;
+}
+.cryptosymbol {
+  font-size: 12px;
+}
+.cryptoLinks {
+  white-space: nowrap;
+}
+.cryptoLinks:hover {
+  cursor: hand;
+  text-decoration: underline;
+}
+.loginbox {
+  margin-top: 20px;
+  width: 500px !important;
+  border: 1px #ddd solid;
+}
+.loginButton {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  flex-direction: column;
+  /* filter: drop-shadow(2px 4px 6px grey); */
+}
+
+.signup {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+}
+.signupBtn {
+  width: 200px !important;
+  /* filter: drop-shadow(2px 4px 6px grey); */
+}
+.loginIcon {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  filter: drop-shadow(2px 4px 6px grey);
+}
+.appname {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+}
+.rush-red {
+  color: crimson;
+}
+
+.chartComponent {
+  width: 800px;
+  float: right;
+}
+.twitterProfileLogo {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.twitterText {
+  font-size: 12px;
+}
+.tweetsContainer {
+  height: 500px;
+  overflow-y: scroll;
+}
+.twitterusername {
+  font-size: 12px;
+}
+.newsImg {
+  max-height: 30%;
+}
+.newsCards {
+  padding: 20px;
+  margin-bottom: 10px;
+}
+.cryptoRow {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: space-around;
+}
+
+.publishDate {
+  font-size: 12px;
+}
+.newsCards {
+  margin-bottom: 5px;
+}
+.searchComponent {
+  margin: 0 auto;
+}
+.symbolwidth {
+  width: 150px !important;
+}
