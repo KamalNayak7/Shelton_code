@@ -67,13 +67,6 @@ Sources Used:
 - [Coingecko](https://www.coingecko.com/) - Gets the exchanges data
 - [newscatcher](https://docs.newscatcherapi.com/) - Gets the latest news for cryptocurrency and NFTs
 
-## Project Members
-
-- Shreyas Vispute
-- Hamza Buch
-- Ashwin Joshi
-- Alokit Gupta
-- Kamal Nayal
 
 ### Folder Structure
 
