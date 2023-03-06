@@ -79,5 +79,5 @@ Sources Used:
 ## GitHub Repository
 
 ```
-https://github.com/shreyasvispute/Crypto-Rush.git
+https://github.com/KamalNayak7/Shelton_code
 ```
